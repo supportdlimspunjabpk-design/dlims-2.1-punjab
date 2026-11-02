@@ -19,4 +19,4 @@ Official repository for the DLIMS 2.1 Punjab web portal.
 ## Status
 Initial setup completed. Development in progress.
 
-Developed with support from City Traffic Police Faisalabad / Safe City Punjab.
+Developed with support from City Traffic Police Punjab / Safe City Punjab /Driving Licensing Management Information System Authority 
