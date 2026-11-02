@@ -1,0 +1,10 @@
+{
+  "name": "dlims-2.1-punjab",
+  "version": "2.1.0",
+  "description": "DLIMS 2.1 Punjab Driving Licence Portal",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Setup dev server'",
+    "build": "echo 'Build project'"
+  }
+}
